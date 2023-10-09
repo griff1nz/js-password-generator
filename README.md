@@ -19,8 +19,8 @@ Explanation of the alert(), confirm(), and prompt() functions: https://www.tutor
 Please refer to the LICENSE in the repo.
 
 ## Source Code Locations
-index.html: ./index.html
-script.js: ./script.js
+index.html: ./index.html - 
+script.js: ./script.js - 
 style.css: ./style.css
 
 ## Deployed Webpage
